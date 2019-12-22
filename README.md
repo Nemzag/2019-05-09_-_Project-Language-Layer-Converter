@@ -8,7 +8,7 @@ you didn't have to learn English or use it, in your page.
 And instead use your mother tongue.
 
 The code (function, tag) will remain in English inside the file,
-by respect to their creator’s & inventor’s,
+by respect to their creator’s & inventor’s,  
 but the user’s vill view the code in their own language’s.
 
 You need to comprehend,  
