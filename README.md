@@ -2,7 +2,7 @@
 A layer interface in I.D.E.,  
 vrom code, display and user,  
 who will allow to use national &amp; ethnic languages in HTML, CSS, JavaScript, PHP, C and any programming languages,  
-by using “substitution” pro function’s, method’s, tag’s, propertie’s, rule’s, attribute’s…  
+by using “`substitution() {};`” pro function’s, method’s, tag’s, propertie’s, rule’s, attribute’s…  
 Like this,  
 you didn't have to learn English or use it, in your page.  
 And instead use your mother tongue.
